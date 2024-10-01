@@ -124,7 +124,7 @@ Here are some real-time examples and case studies demonstrating how organization
 
 ---
 
-### **4. Case Study: **Fujitsu**
+### **4. Case Study: **Fuji**
 
 **Background**: Fujitsu, a global IT service provider, sought to improve its service management processes to better meet customer needs and enhance service delivery.
 
